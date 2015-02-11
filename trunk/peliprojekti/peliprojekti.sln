@@ -1,6 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
+Project("{C9E92944-C5F7-B79C-3A5A-39202FFD2629}") = "peliprojekti", "Assembly-CSharp.csproj", "{32D35113-B332-487B-2827-E3F6D262DC5B}"
+EndProject
 Project("{C9E92944-C5F7-B79C-3A5A-39202FFD2629}") = "peliprojekti", "Assembly-UnityScript.unityproj", "{AA77CE58-5FBC-3F9E-8FAF-E5CFE857C06A}"
 EndProject
 Global
@@ -9,6 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32D35113-B332-487B-2827-E3F6D262DC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D35113-B332-487B-2827-E3F6D262DC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D35113-B332-487B-2827-E3F6D262DC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D35113-B332-487B-2827-E3F6D262DC5B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AA77CE58-5FBC-3F9E-8FAF-E5CFE857C06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AA77CE58-5FBC-3F9E-8FAF-E5CFE857C06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA77CE58-5FBC-3F9E-8FAF-E5CFE857C06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -17,7 +23,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-								GlobalSection(MonoDevelopProperties) = preSolution
+											GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
