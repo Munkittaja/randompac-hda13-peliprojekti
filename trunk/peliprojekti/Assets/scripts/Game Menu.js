@@ -18,7 +18,7 @@ Application.Quit();
 }
 else {
 //load level
-Application.LoadLevel1(1);
+Application.LoadLevel('Level1');
 }
 }
 
