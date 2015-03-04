@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Game Menu.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\GhostMove.cs">
     <Files>
-      <File FileName="Assets\scripts\Game Menu.js" Line="21" Column="28" />
+      <File FileName="Assets\scripts\GhostMove.cs" Line="52" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
