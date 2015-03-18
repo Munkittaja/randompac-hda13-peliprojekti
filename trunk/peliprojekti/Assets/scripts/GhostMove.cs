@@ -10,6 +10,7 @@ public class GhostMove : MonoBehaviour {
 				return;
 			float speed = 0.3f;
 
+
 			// Waypoint not reached yet? then move closer
 			if (transform.position != waypoints[cur].position) {
 				Vector2 p = Vector2.MoveTowards(transform.position,
@@ -29,7 +30,7 @@ public class GhostMove : MonoBehaviour {
 		if (co.name == "pacman")
 			Destroy(co.gameObject);
 }
-	
+
 		
 
 	}
