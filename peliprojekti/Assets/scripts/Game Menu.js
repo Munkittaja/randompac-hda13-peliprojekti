@@ -18,6 +18,9 @@ Application.Quit();
 }
 else {
 //load level
+var score:int;
+score = 0;
+
 Application.LoadLevel('Level1');
 }
 }
